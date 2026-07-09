@@ -54,9 +54,10 @@ Web developer progressively discovering mobile development along the way. I buil
 
 | Repository | What it does | Stack |
 |---|---|---|
+| [**vitrina**](https://github.com/lekidybeloha/vitrina) | Turns a phone & tablet shop into an online storefront in minutes — catalog, multi-location stock, cart & checkout, order management. Alpha version | Laravel · React · PostgreSQL · Docker |
 | [**intl-payment-xml**](https://github.com/lekidybeloha/intl-payment-xml) | PHP library to generate ISO 20022 PAIN.001 XML files for international bank transfers | PHP · Composer |
 | [**PWDashboard**](https://github.com/lekidybeloha/PWDashboard) | Collaborative work dashboard (Trello-like) — open to contributions | Laravel · Vue · JS |
-| [**mywallet**](https://github.com/lekidybeloha/mywallet) | Personal finance tracker | PHP |
+| [**mywallet**](https://github.com/lekidybeloha/mywallet) | Personal finance tracker — mobile app, also available on the web at [mywallet.elkana-vinet.com](https://mywallet.elkana-vinet.com) | PHP |
 | [**blog**](https://github.com/lekidybeloha/blog) | Source code of my personal blog | PHP |
 | [**Sentinel**](https://github.com/lekidybeloha/Sentinel) | Authentication & access control layer | PHP |
 
@@ -65,13 +66,13 @@ Web developer progressively discovering mobile development along the way. I buil
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekidybeloha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lekidybeloha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekidybeloha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lekidybeloha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekidybeloha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=lekidybeloha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -85,5 +86,5 @@ Web developer progressively discovering mobile development along the way. I buil
 ---
 
 <p align="center">
-  <i>🏆 Arctic Code Vault Contributor &nbsp;·&nbsp; Pull Shark ×4</i>
+  <i>🏆 Arctic Code Vault Contributor &nbsp;·&nbsp; Pull Shark ×4 &nbsp;·&nbsp; Pair Extraordinaire &nbsp;·&nbsp; YOLO</i>
 </p>
